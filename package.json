@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "Este es un demo de la clase de sass",
   "main": "index.js",
-  "scripts": { 
+  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SalvadorGragirena/TerceraEntrega.git"
+    "url": "git+https://github.com/SalvadorGragirena/SegundaEntrega.git"
   },
   "keywords": [
     "sass"
@@ -16,9 +16,9 @@
   "author": "Salvador",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SalvadorGragirena/TerceraEntrega/issues"
+    "url": "https://github.com/SalvadorGragirena/SegundaEntrega/issues"
   },
-  "homepage": "https://github.com/SalvadorGragirena/TerceraEntrega#readme",
+  "homepage": "https://github.com/SalvadorGragirena/SegundaEntrega#readme",
   "dependencies": {
     "sass": "^1.55.0"
   },
